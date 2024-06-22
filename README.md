@@ -1,1 +1,3 @@
-Projeto Web .NET com arquitetura MVC para clínica veterinária LH-Pet.
+## clínica veterinária ficticia LH-Pet.
+>> -projeto web com arquitetura MVC(Model,View,Controler)
+>> - front-end e back-end construido com .NET framework
